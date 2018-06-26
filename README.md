@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Based on the sample code of https://github.com/eosasia/eos-todo, some needed modification
+Based on the sample code of https://github.com/FeeSimple/dapp-skeleton, some needed modification
 was made so that the existing code can work with new EOSIO software version.
 
 It demonstrates CRUD operation of data against EOS blochchain via smart contract
